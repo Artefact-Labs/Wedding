@@ -1,0 +1,50 @@
+
+Image{
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  source: "Resources/testimonials.jpg",
+  child: [
+    Rectangle{
+      id: "rectangleundefined1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "black",
+      opacity: 0.5,
+      visible: true
+    },
+    Text{
+      id: "textundefined3",
+      width: 960,
+      height: "auto",
+      y: 91,
+      opacity: 1,
+      value: "What Our Customers Say",
+      color: "white",
+      fontSize: 40,
+      horizontalCenter: 0
+    },
+    Flow{
+      id: "gridundefined5",
+      width: 960,
+      height: 275,
+      y: 225,
+      horizontalCenter: 0,
+      child: [
+        Object{
+          id: "whatboxgridundefined51",
+          width: 450,
+          height: 275,
+          name: "whatBox",
+          modelFor: "<#liste#>",
+          bind_desc: "<#item.desc#>",
+          bind_img: "<#item.img#>",
+          bind_name: "<#item.name#>"
+        }
+      ]
+    }
+  ]
+},

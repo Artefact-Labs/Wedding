@@ -1,0 +1,2 @@
+[{ path: '/', component: "At/main"},
+{ path: '/page1', component: "At/page1"}]

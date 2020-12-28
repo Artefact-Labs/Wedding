@@ -1,0 +1,17 @@
+Data content = [
+	{
+		img: "Resources/b3.jpg",
+		title: "CREATIVE PLANS",
+		desc: "Onec consequat sapien amet leo cur sus rhoncus. Nullam dui mi Donec at nunc enim. Proin at iaculis tellus..."	
+	},
+	{
+		img: "Resources/b4.jpg",
+		title: "BEST CELEBRATIONS",
+		desc: "Onec consequat sapien amet leo cur sus rhoncus. Nullam dui mi Donec at nunc enim. Proin at iaculis tellus..."	
+	},
+	{
+		img: "Resources/b5.jpg",
+		title: "AWESOME SERVICES",
+		desc: "Onec consequat sapien amet leo cur sus rhoncus. Nullam dui mi Donec at nunc enim. Proin at iaculis tellus..."	
+	},
+]

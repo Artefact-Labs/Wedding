@@ -1,0 +1,22 @@
+Data liste = [
+	{
+		title: "Tyson & Amery",
+		desc: "LOVE COUPLE",
+		img: "Resources/couple1.jpg"
+	},
+	{
+		title: "Stas & Melnikov",
+		desc: "LOVE COUPLE",
+		img: "Resources/couple2.jpg"
+	},
+	{
+		title: "Lise & Laurie",
+		desc: "LOVE COUPLE",
+		img: "Resources/couple3.jpg"
+	},
+	{
+		title: "Effie & Eleanora",
+		desc: "LOVE COUPLE",
+		img: "Resources/couple4.jpg"
+	},
+]

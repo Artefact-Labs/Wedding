@@ -1,0 +1,334 @@
+
+Item{ 
+ 
+ 
+  id: "header",
+  anchors.right: 0,
+  anchors.left: 0,
+  anchors.top: 0,
+  anchors.bottom: 0,
+  child: [
+    Item{
+     
+      id: "itemheader1",
+      width: 1025,
+      height: 74,
+      anchors.verticalCenter: 0,
+      anchors.horizontalCenter: 0,
+      child: [
+        Row{
+         
+          id: "rowitemheader11",
+          width: 148,
+          height: 35,
+          x: 0,
+          child: [
+            Icon{
+             
+              id: "iconrowitemheader111",
+              width: 35,
+              height: 35,
+              iconName: "ion-ios-gift",
+              size: 25,
+              color: "#ee23f5"
+            },
+            Text{
+             
+              id: "textrowitemheader113",
+              width: 110,
+              height: 35,
+              value: "Match Fix",
+              color: "white",
+              fontSize: 25
+            }
+          ],
+          anchors.bottom: 0
+        },
+        Row{
+         
+          id: "rowitemheader13",
+          width: 370.00000000000006,
+          height: 32,
+          y: 0,
+          anchors.right: 0,
+          child: [
+            Item{
+             
+              id: "itemrowitemheader131",
+              width: 170,
+              height: 32,
+              child: [
+                Icon{
+                 
+                  id: "iconitemrowitemheader1311",
+                  width: 20,
+                  height: 20,
+                  x: 0,
+                  anchors.verticalCenter: 0,
+                  color: "white",
+                  opacity: 1,
+                  iconName: "ion-ios-call"
+                },
+                Text{
+                 
+                  id: "textitemrowitemheader1313",
+                  width: 100,
+                  height: 20,
+                  x: 25,
+                  value: "+1(21)2344567",
+                  fontSize: 17,
+                  anchors.verticalCenter: 0,
+                  color: "white"
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader13122222",
+              width: 190,
+              height: 32,
+              child: [
+                Icon{
+                 
+                  id: "iconitemrowitemheader1311",
+                  width: 20,
+                  height: 20,
+                  x: 0,
+                  anchors.verticalCenter: 0,
+                  iconName: "ion-ios-mail-open",
+                  color: "white"
+                },
+                Text{
+                 
+                  id: "textitemrowitemheader1313",
+                  width: 100,
+                  height: 20,
+                  x: 25,
+                  value: "theatcomp@gmail.com",
+                  fontSize: 17,
+                  anchors.verticalCenter: 0,
+                  color: "white"
+                }
+              ]
+            }
+          ]
+        },
+        Row{
+         
+          id: "rowitemheader15",
+          width: 503.8,
+          height: 28,
+          anchors.right: 0,
+          anchors.bottom: 0,
+          child: [
+            Item{
+             
+              id: "itemrowitemheader151",
+              width: 50,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "Home",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader15122222",
+              width: 64,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "About us",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader15133333",
+              width: 54,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "Service",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader15144444",
+              width: 40,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "Stats",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader15155555",
+              width: 89,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "Testimonials",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            },
+            Item{
+             
+              id: "itemrowitemheader15166666",
+              width: 70,
+              height: 100,
+              anchors.top: 0,
+              anchors.bottom: 0,
+              child: [
+                Link{
+                 
+                  id: "linkitemrowitemheader1513",
+                  child: [
+                    Text{
+                     
+                      id: "textitemrowitemheader151111111",
+                      value: "Subscribe",
+                      horizontalAlign: "center",
+                      verticalAlign: "middle",
+                      anchors.top: 0,
+                      anchors.bottom: 0,
+                      fontSize: 16,
+                      color: "white",
+                      anchors.right: 0,
+                      anchors.left: 0
+                    }
+                  ],
+                  anchors.top: 0,
+                  anchors.bottom: 0,
+                  to: "#",
+                  anchors.right: 0,
+                  anchors.left: 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}, 
+  

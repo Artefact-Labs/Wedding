@@ -1,0 +1,4 @@
+import "Imported/page1/Dependences/exemple.js,"
+
+Data counter = 10000000000
+Method add () { this.counter++ }

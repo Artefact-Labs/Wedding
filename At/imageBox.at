@@ -1,0 +1,47 @@
+
+Item{
+  id: "NaN",
+  child: [
+    Image{
+      id: "imageNaN1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      source: "<#image#>"
+    },
+    Rectangle{
+      id: "rectangleNaN3",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "black",
+      opacity: 0.4
+    },
+    Text{
+      id: "textNaN5",
+      width: "auto",
+      height: "auto",
+      y: 219,
+      color: "white",
+      value: "<#desc1#>",
+      fontSize: 25,
+      right: 30
+    },
+    Text{
+      id: "textNaN544444",
+      width: "auto",
+      height: "auto",
+      y: 249,
+      color: "#cbcbcb",
+      value: "<#desc2#>",
+      fontSize: 17,
+      right: 30
+    }
+  ],
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0
+},

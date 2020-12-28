@@ -1,0 +1,134 @@
+
+Item{
+  id: "section1",
+  child: [
+    Rectangle{
+      id: "rectangleNaN312222",
+      left: 0,
+      right: 0,
+      top: 0,
+      color: "#f6f6f6",
+      child: [
+        Text{
+          id: "textrectangleNaN31",
+          width: 960,
+          height: 32.81480702715692,
+          y: 42,
+          value: "Recently Married Happy Couples",
+          fontSize: 28,
+          horizontalCenter: 0
+        },
+        Column{
+          id: "columnrectangleNaN35",
+          height: 538.7,
+          y: 100,
+          left: 50,
+          child: [
+            Flow{
+              id: "gridrectangleNaN3311111",
+              height: "auto",
+              child: [
+                Object{
+                  id: "imageboxgridrectangleNaN331",
+                  width: 210,
+                  height: 300,
+                  name: "imageBox",
+                  modelFor: "<#liste#>",
+                  bind_image: "<#item.img#>",
+                  bind_desc1: "<#item.desc1#>",
+                  bind_desc2: "<#item.desc2#>",
+                  left: 0,
+                  col_real_index: 1
+                }
+              ],
+              spacing: "space-between",
+              width: 960,
+              horizontalCenter: 0
+            },
+            Flow{
+              id: "gridcolumnrectangleNaN353",
+              width: 960,
+              height: "auto",
+              child: [
+                Text{
+                  id: "textgridrectangleNaN33311111",
+                  width: 400,
+                  height: "auto",
+                  value: "Vivamus mattis ex massa. Morbi sed dui imperdiet, tinci dunt libero a, sagittis enim. Donec lobortis cursuser uti justo, at eleifend eros init ultricies sed. Vivamus efficit ur urna vitae tempus aliquam. Proin aliquet dictum est molestie maximus sapien leo cursus rhoncus.",
+                  color: "gray",
+                  fontSize: 19,
+                  left: 0,
+                  col_real_index: 1
+                },
+                Column{
+                  id: "gridgridrectangleNaN3353333322222",
+                  width: 50,
+                  height: 120,
+                  child: [
+                    Icon{
+                      id: "icongridgridrectangleNaN335333331",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-image",
+                      size: 50
+                    },
+                    Icon{
+                      id: "icongridgridrectangleNaN33533333122222",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-md-hand",
+                      size: 50
+                    }
+                  ],
+                  spacing: "space-between",
+                  col_real_index: 3
+                },
+                Column{
+                  id: "gridgridrectangleNaN3354444433333",
+                  width: 50,
+                  height: 120,
+                  child: [
+                    Icon{
+                      id: "icongridgridrectangleNaN335444441",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-hourglass",
+                      size: 50
+                    },
+                    Icon{
+                      id: "icongridgridrectangleNaN335444443",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-paw",
+                      size: 50
+                    }
+                  ],
+                  spacing: "space-between",
+                  col_real_index: 5
+                },
+                Text{
+                  id: "textgridrectangleNaN3335555544444",
+                  width: 400,
+                  height: "auto",
+                  value: "Vivamus mattis ex massa. Morbi sed dui imperdiet, tinci dunt libero a, sagittis enim. Donec lobortis cursuser uti justo, at eleifend eros init ultricies sed. Vivamus efficit ur urna vitae tempus aliquam. Proin aliquet dictum est molestie maximus sapien leo cursus rhoncus.",
+                  color: "gray",
+                  fontSize: 19,
+                  col_real_index: 7
+                }
+              ],
+              spacing: "space-between",
+              horizontalCenter: 0
+            }
+          ],
+          spacing: "space-between",
+          right: 50
+        }
+      ],
+      bottom: 0
+    }
+  ],
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0
+},

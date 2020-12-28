@@ -1,0 +1,276 @@
+
+Image{
+  id: "NaN",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  source: "Resources/b3.jpg",
+  child: [
+    Rectangle{
+      id: "rectangleNaN1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "black",
+      opacity: 0.5
+    },
+    Column{
+      id: "columnNaN5",
+      height: 198.14759244948442,
+      child: [
+        Item{
+          id: "itemcolumnNaN51",
+          width: 100,
+          height: "auto",
+          left: 0,
+          right: 0,
+          child: [
+            Link{
+              id: "linkrowNaN333333311111",
+              width: "auto",
+              height: "auto",
+              child: [
+                Row{
+                  id: "rowNaN311111",
+                  width: "auto",
+                  height: "auto",
+                  x: 0,
+                  y: 0,
+                  child: [
+                    Icon{
+                      id: "iconrowNaN3122222",
+                      width: 33,
+                      height: 33,
+                      opacity: 1,
+                      size: 40,
+                      iconName: "ion-ios-gift",
+                      color: "#ff4f81"
+                    },
+                    Text{
+                      id: "textlinkrowNaN33133333",
+                      width: 144,
+                      height: "auto",
+                      value: "Match Fix",
+                      color: "white",
+                      fontSize: 33,
+                      horizontalAlign: "left",
+                      right: 0
+                    }
+                  ]
+                }
+              ],
+              horizontalCenter: 0
+            }
+          ]
+        },
+        Text{
+          id: "textcolumnNaN53",
+          width: 100,
+          height: "auto",
+          value: "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ipnut libero malesuada feugiat. Lorem ipsum dolor sit amet, consectetur elit.",
+          color: "#b8b8b8",
+          fontSize: 15,
+          left: 0,
+          right: 0,
+          letterSpacing: 1,
+          wordSpacing: 4,
+          horizontalAlign: "center",
+          lineHeight: 30
+        },
+        Item{
+          id: "itemcolumnNaN55",
+          width: 40,
+          height: 40,
+          left: 0,
+          right: 0,
+          child: [
+            Grid{
+              id: "griditemcolumnNaN551",
+              width: 280,
+              height: 40,
+              y: 0,
+              child: [
+                Link{
+                  id: "linkgriditemcolumnNaN5511",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-facebook"
+                    }
+                  ],
+                  col_real_index: 1
+                },
+                Link{
+                  id: "linkgriditemcolumnNaN551122222",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-twitter"
+                    }
+                  ],
+                  col_real_index: 3
+                },
+                Link{
+                  id: "linkgriditemcolumnNaN551133333",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-googleplus"
+                    }
+                  ],
+                  col_real_index: 5
+                },
+                Link{
+                  id: "linkgriditemcolumnNaN551144444",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-linkedin"
+                    }
+                  ],
+                  col_real_index: 7
+                },
+                Link{
+                  id: "linkgriditemcolumnNaN551155555",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-pinterest"
+                    }
+                  ],
+                  col_real_index: 9
+                },
+                Link{
+                  id: "linkgriditemcolumnNaN551166666",
+                  width: 40,
+                  height: 40,
+                  child: [
+                    Rectangle{
+                      id: "rectanglelinkgriditemcolumnNaN55111",
+                      width: 40,
+                      height: 40,
+                      x: 0,
+                      y: 0,
+                      color: "black",
+                      radius: 20,
+                      opacity: 0.7
+                    },
+                    Icon{
+                      id: "iconlinkgriditemcolumnNaN55113",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      size: 20,
+                      color: "white",
+                      iconName: "ion-logo-vimeo"
+                    }
+                  ],
+                  col_real_index: 11
+                }
+              ],
+              horizontalCenter: 0,
+              spacing: "space-between"
+            }
+          ]
+        }
+      ],
+      verticalCenter: 0,
+      right: 200,
+      left: 200,
+      spacing: "space-between"
+    }
+  ]
+},

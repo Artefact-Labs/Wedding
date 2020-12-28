@@ -1,0 +1,49 @@
+
+Item{
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Rectangle{
+      id: "rectangleundefined1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "white",
+      child: [
+        Text{
+          id: "textrectangleundefined13",
+          width: 955,
+          height: "auto",
+          y: 56,
+          horizontalCenter: 0,
+          value: "Happy Couples",
+          fontSize: 40,
+          color: "#737373"
+        },
+        Flow{
+          id: "gridrectangleundefined11",
+          width: 960,
+          height: 400,
+          y: 156,
+          horizontalCenter: 0,
+          child: [
+            Object{
+              id: "statbxgridrectangleundefined111",
+              width: 210,
+              height: 342,
+              name: "happyBox",
+              bind_title: "<#item.title#>",
+              bind_desc: "<#item.desc#>",
+              bind_img: "<#item.img#>",
+              modelFor: "<#liste#>"
+            }
+          ],
+          spacing: "space-between"
+        }
+      ]
+    }
+  ]
+},

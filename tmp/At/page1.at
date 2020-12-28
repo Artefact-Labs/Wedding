@@ -1,0 +1,177 @@
+
+Column{
+  id: "mainContainer",
+  right: 0,
+  left: 0,
+  top: 0,
+  child: [
+    Item{
+      id: "banner",
+      height: 867,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "custombannerbanner1",
+          name: "customBanner",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "rectangleNaN3",
+      height: 700,
+      left: 1,
+      right: 0,
+      child: [
+        Object{
+          id: "section1NaN291",
+          name: "section1",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ],
+      width: 0
+    },
+    Item{
+      id: "rectangleNaN5",
+      height: 608,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section2rectangleNaN51",
+          name: "section2",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "rectangleNaN54",
+      height: 534,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section3rectangleNaN541",
+          name: "section3",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN29",
+      width: 100,
+      height: 689,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section4itemNaN291",
+          name: "section4",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN211",
+      width: 100,
+      height: 563,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section5itemNaN2111",
+          name: "section5",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN213",
+      width: 100,
+      height: 618,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section6itemNaN2131",
+          name: "section6",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN215",
+      width: 100,
+      height: 192,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section7itemNaN2151",
+          name: "section7",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN217",
+      width: 100,
+      height: 321,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section8itemNaN2171",
+          name: "section8",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    },
+    Item{
+      id: "itemNaN219",
+      width: 100,
+      height: 78,
+      left: 0,
+      right: 0,
+      child: [
+        Object{
+          id: "section9itemNaN2191",
+          name: "section9",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0
+        }
+      ]
+    }
+  ],
+  height: "auto"
+},

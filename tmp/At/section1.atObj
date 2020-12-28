@@ -1,0 +1,22 @@
+Data liste = [
+	{
+		desc1: "HAPPY SMILE",
+		desc2: "Matrimony",
+		img: "Resources/couple1.jpg"
+	},
+	{
+		desc1: "COUPLE",
+		desc2: "Matrimony",
+		img: "Resources/couple2.jpg"
+	},
+	{
+		desc1: "ENGAGED",
+		desc2: "Matrimony",
+		img: "Resources/couple3.jpg"
+	},
+	{
+		desc1: "BRIDE",
+		desc2: "Matrimony",
+		img: "Resources/couple4.jpg"
+	},
+]

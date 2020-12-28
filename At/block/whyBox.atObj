@@ -1,0 +1,3 @@
+Property required String img = "Resources/footer.jpg"
+Property required String title = "CREATIV PLANS"
+Property required String desc = "CREATIV PLANS"

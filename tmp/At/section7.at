@@ -1,0 +1,110 @@
+
+Item{
+  id: "NaN",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Rectangle{
+      id: "rectangleNaN1",
+      width: 500,
+      x: 0,
+      color: "#ff4f81",
+      top: 0,
+      bottom: 0,
+      child: [
+        Icon{
+          id: "iconrectangleNaN11",
+          width: 100,
+          height: 100,
+          x: 43,
+          verticalCenter: 0,
+          iconName: "ion-ios-send",
+          bottom: 0,
+          size: 80,
+          color: "white"
+        },
+        Text{
+          id: "textrectangleNaN13",
+          width: 318.3343349710476,
+          height: 100,
+          x: 148,
+          verticalCenter: 0,
+          value: "Subscribe To Our Newsletter",
+          color: "#fff",
+          fontSize: 40
+        }
+      ]
+    },
+    Rectangle{
+      id: "rectangleNaN3",
+      left: 500,
+      right: 0,
+      top: 0,
+      bottom: 0,
+      color: "#f6f6f6",
+      child: [
+        Column{
+          id: "columnrectangleNaN31",
+          height: "auto",
+          verticalCenter: 0,
+          child: [
+            Rectangle{
+              id: "rectanglecolumnrectangleNaN311",
+              width: 100,
+              height: 52,
+              color: "white",
+              left: 0,
+              right: 0,
+              child: [
+                Rectangle{
+                  id: "rectanglerectanglecolumnrectangleNaN3111",
+                  width: 52,
+                  height: 52,
+                  y: 0,
+                  color: "#333",
+                  right: 0,
+                  child: [
+                    Icon{
+                      id: "iconrectanglerectanglecolumnrectangleNaN31111",
+                      right: 0,
+                      left: 0,
+                      top: 0,
+                      bottom: 0,
+                      iconName: "ion-ios-send",
+                      size: 20,
+                      color: "white"
+                    }
+                  ]
+                },
+                TextField{
+                  id: "textfieldrectanglecolumnrectangleNaN3113",
+                  right: 52,
+                  left: 0,
+                  top: 0,
+                  bottom: 2,
+                  label: " ",
+                  placeholder: "Enter your Email hier",
+                  mode: "filled"
+                }
+              ]
+            },
+            Text{
+              id: "textcolumnrectangleNaN313",
+              width: "auto",
+              height: "auto",
+              value: "we never share your email with anyone else",
+              left: 0,
+              right: 0,
+              fontSize: 15,
+              color: "#666"
+            }
+          ],
+          left: 60,
+          right: 200
+        }
+      ]
+    }
+  ]
+},

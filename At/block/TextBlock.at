@@ -1,0 +1,70 @@
+
+Item{
+  id: "rec0",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Rectangle{
+      id: "rec0Content",
+      color: "white",
+      right: 0,
+      left: 25,
+      top: 0,
+      bottom: 0,
+      border: 2,
+      borderColor: "#ff4f81",
+      child: [
+        Rectangle{
+          id: "rectanglerec0122221",
+          width: 50,
+          height: 50,
+          x: -25,
+          verticalCenter: 0,
+          color: "white",
+          radius: 30,
+          child: [
+            Icon{
+              id: "iconrectanglerec01222211",
+              right: 0,
+              left: 0,
+              top: 0,
+              bottom: 0,
+              iconName: "<#icon#>",
+              size: 40,
+              color: "#ff4f81"
+            }
+          ]
+        },
+        Text{
+          id: "textrec0122223",
+          width: "auto",
+          height: "auto",
+          y: 32,
+          value: "<#title#>",
+          fontSize: 20,
+          left: 43
+        },
+        Rectangle{
+          id: "rectanglerec0122225",
+          width: 50,
+          height: 1,
+          y: 62,
+          left: 43,
+          color: "#ff4f81"
+        },
+        Text{
+          id: "textrec012222344444",
+          height: 45.0287416164723,
+          y: 71,
+          value: "<#desc#>",
+          fontSize: 14,
+          left: 43,
+          color: "#909090",
+          right: 43
+        }
+      ]
+    }
+  ]
+},

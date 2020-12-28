@@ -1,0 +1,20 @@
+Data current = 0
+Method add () { this.counter++ }
+Data slider = [
+{
+	text1: "Matrimonial Search.",
+	text2: "Best Matching Couples",
+	text3: "Onec Consequat Sapien Ut Leo Cursus Rhoncus. Nullam Dui Mi, Vulputate Ac Metus Semper Nullam Dui Mi. Vestibulum Ante. Morbi At Dui Nisl."
+},
+{
+	text1: "Matrimonial Search2.",
+	text2: "Best Matching Couples",
+	text3: "Onec Consequat Sapien Ut Leo Cursus Rhoncus. Nullam Dui Mi, Vulputate Ac Metus Semper Nullam Dui Mi. Vestibulum Ante. Morbi At Dui Nisl."
+},
+{
+	text1: "Matrimonial Search3.",
+	text2: "Best Matching Couples",
+	text3: "Onec Consequat Sapien Ut Leo Cursus Rhoncus. Nullam Dui Mi, Vulputate Ac Metus Semper Nullam Dui Mi. Vestibulum Ante. Morbi At Dui Nisl."
+}
+]
+  

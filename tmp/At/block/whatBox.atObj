@@ -1,0 +1,4 @@
+Property required String desc = "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat. Donec rutrum."
+Property required String img = "Resources/ts1.jpg"
+Property required String name = "JOHN & ELISA"
+

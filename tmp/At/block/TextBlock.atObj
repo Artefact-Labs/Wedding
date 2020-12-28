@@ -1,0 +1,3 @@
+Property required String title = "WEDDING CEREMONY"
+Property required String desc = "lorem impus"
+Property required String icon = "ion-md-play"

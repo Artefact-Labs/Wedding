@@ -1,0 +1,3 @@
+Property required String img = "Resources/ts1.jpg"
+Property required String title = "JOHN & ELISA"
+Property required String desc = "JOHN & ELISA"

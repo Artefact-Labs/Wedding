@@ -1,0 +1,113 @@
+
+Rectangle{
+  id: "rec0",
+  color: "white",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Text{
+      id: "textNaN1",
+      width: 291,
+      height: 27,
+      y: 50,
+      value: "Register & Join our Matrimony",
+      horizontalCenter: 0,
+      fontSize: 18,
+      color: "gray",
+      horizontalAlign: "center"
+    },
+    Column{
+      id: "columnNaN3",
+      width: 319.9758216942032,
+      height: 355,
+      y: 89,
+      horizontalCenter: 0,
+      child: [
+        TextField{
+          id: "textfieldcolumnNaN31",
+          width: 315,
+          height: 49,
+          mode: "box",
+          label: "",
+          placeholder: "Your Name"
+        },
+        TextField{
+          id: "textfieldcolumnNaN3122222",
+          width: 315,
+          height: 49,
+          mode: "box",
+          label: "",
+          placeholder: "Your Email Id"
+        },
+        TextField{
+          id: "textfieldcolumnNaN3133333",
+          width: 315,
+          height: 49,
+          mode: "box",
+          label: "",
+          placeholder: "Contact Number"
+        },
+        TextField{
+          id: "textfieldcolumnNaN3144444",
+          width: 315,
+          height: 49,
+          mode: "box",
+          label: "",
+          placeholder: "Gender*"
+        },
+        Button{
+          id: "buttoncolumnNaN39",
+          width: 315,
+          height: 50,
+          value: "Get started",
+          backgroundColor: "#ff4f81",
+          dark: true,
+          flat: false,
+          fab: false
+        },
+        Item{
+          id: "itemcolumnNaN311",
+          width: 315,
+          height: 20,
+          child: [
+            Row{
+              id: "rowitemcolumnNaN3111",
+              child: [
+                Text{
+                  id: "textrowitemcolumnNaN31111",
+                  width: 188,
+                  height: 15,
+                  value: "By registering, you agree to our ",
+                  fontSize: 13
+                },
+                Link{
+                  id: "linkrowitemcolumnNaN31113",
+                  width: 123,
+                  height: 15,
+                  child: [
+                    Text{
+                      id: "textrowitemcolumnNaN3111111111",
+                      width: 196,
+                      height: 15,
+                      value: "Terms & Conditions.",
+                      fontSize: 15,
+                      color: "#ff4f81"
+                    }
+                  ]
+                }
+              ],
+              left: 0,
+              right: 0,
+              top: 0,
+              bottom: 0,
+              spacing: "space-between"
+            }
+          ]
+        }
+      ],
+      spacing: "space-between"
+    }
+  ]
+},

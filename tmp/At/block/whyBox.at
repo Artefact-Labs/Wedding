@@ -1,0 +1,41 @@
+
+Card{
+  id: "NaN",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Image{
+      id: "imageNaN1",
+      height: 193,
+      y: 0,
+      left: 0,
+      right: 0,
+      source: "<#img#>"
+    },
+    Text{
+      id: "textNaN3",
+      height: "auto",
+      y: 209,
+      left: 25,
+      right: 25,
+      value: "<#title#>",
+      fontSize: 20
+    },
+    Text{
+      id: "textNaN33333333333",
+      left: 25,
+      right: 25,
+      value: "<#desc#>",
+      fontSize: 15,
+      bottom: 25,
+      textO: true,
+      color: "#939393",
+      top: 242,
+      textOverflow: "clip",
+      lineHeight: 33,
+      letterSpacing: 1
+    }
+  ]
+},

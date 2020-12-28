@@ -1,0 +1,22 @@
+Data content = [
+	{
+		icon: "ion-ios-cash",
+		number: 1568,
+		desc: "Happy Couples"	
+	},
+	{
+		icon: "ion-ios-people",
+		number: 1900,
+		desc: "Married Couples"	
+	},
+	{
+		icon: "ion-md-finger-print",
+		number: 1422,
+		desc: "Registered"	
+	},
+	{
+		icon: "ion-md-people",
+		number: 400,
+		desc: "Media Followers"	
+	},
+]

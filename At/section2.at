@@ -1,0 +1,51 @@
+
+Item{
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Rectangle{
+      id: "rectangleundefined1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "white",
+      child: [
+        Text{
+          id: "textrectangleundefined13",
+          width: 1140,
+          height: "auto",
+          y: 40,
+          horizontalCenter: 0,
+          value: "Our Services",
+          fontSize: 40,
+          color: "#797979"
+        },
+        Flow{
+          id: "gridrectangleundefined11",
+          width: 1140,
+          height: 400,
+          y: 131,
+          horizontalCenter: 0,
+          child: [
+            Object{
+              id: "textblockgridrectangleundefined111",
+              width: 315,
+              height: 148,
+              name: "TextBlock",
+              modelFor: "<#content#>",
+              bind_icon: "<#item.icon#>",
+              bind_title: "<#item.title#>",
+              bind_desc: "<#item.desc#>",
+              x: 0
+            }
+          ],
+          spacing: "space-between",
+          left: 0
+        }
+      ]
+    }
+  ]
+},

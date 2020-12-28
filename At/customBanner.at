@@ -1,0 +1,71 @@
+
+Item{
+  id: "banner",
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Image{
+      id: "parallaxNaN11",
+      source: "Resources/banner.jpg",
+      child: [
+        Rectangle{
+          id: "rectangleparallaxNaN11",
+          color: "black",
+          right: 0,
+          left: 0,
+          top: 0,
+          bottom: 0,
+          opacity: 0.6
+        },
+        Object{
+          id: "headerbarparallaxNaN13",
+          height: 100,
+          y: 0,
+          name: "headerBar",
+          left: 0,
+          right: 0,
+          opacity: 1
+        },
+        Flow{
+          id: "gridparallaxNaN173",
+          width: 996,
+          height: "auto",
+          child: [
+            Item{
+              id: "itemgridparallaxNaN1733",
+              width: 500,
+              height: 490,
+              child: [
+                Object{
+                  id: "carouslidergridparallaxNaN1711",
+                  width: 500,
+                  height: 390,
+                  name: "carouSlider",
+                  bottom: 0
+                }
+              ],
+              col_real_index: 1
+            },
+            Object{
+              id: "formulairegridparallaxNaN1733",
+              width: 395,
+              height: 490,
+              name: "formulaire",
+              col_real_index: 3
+            }
+          ],
+          horizontalCenter: 0,
+          bottom: 200,
+          left: 0,
+          spacing: "space-between"
+        }
+      ],
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0
+    }
+  ]
+},

@@ -1,0 +1,538 @@
+{
+ "type": "folder",
+ "name": "Wedding",
+ "iconA": "folderA",
+ "version": "",
+ "description": "",
+ "author": "aaa",
+ "productName": "",
+ "appId": "",
+ "target": "",
+ "allowToChangeInstallationDirectory": "",
+ "oneClick": "",
+ "mac": {
+  "icon": ""
+ },
+ "win": {
+  "icon": ""
+ },
+ "linux": {
+  "icon": ""
+ },
+ "child": [
+  {
+   "type": "folder",
+   "name": "At",
+   "iconA": "folderB",
+   "col": "#F9B31E",
+   "child": [
+    {
+     "type": "folder",
+     "name": "block",
+     "iconA": "folderC",
+     "col": "pink",
+     "child": [
+      {
+       "type": "file",
+       "name": "happyBox.at",
+       "iconA": "at"
+      },
+      {
+       "type": "file",
+       "name": "StatBx.at",
+       "iconA": "at"
+      },
+      {
+       "type": "file",
+       "name": "TextBlock.at",
+       "iconA": "at"
+      },
+      {
+       "type": "file",
+       "name": "whatBox.at",
+       "iconA": "at"
+      },
+      {
+       "type": "file",
+       "name": "whyBox.at",
+       "iconA": "at"
+      }
+     ]
+    },
+    {
+     "type": "file",
+     "name": "carouSlider.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "customBanner.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "formulaire.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "headerBar.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "imageBox.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "main.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "page1.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section1.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section2.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section3.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section4.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section5.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section6.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section7.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section8.at",
+     "iconA": "at"
+    },
+    {
+     "type": "file",
+     "name": "section9.at",
+     "iconA": "at"
+    }
+   ]
+  },
+  {
+   "type": "folder",
+   "name": "Js",
+   "iconA": "folderB",
+   "child": [
+    {
+     "type": "file",
+     "name": "exemple.js",
+     "iconA": "js"
+    },
+    {
+     "type": "file",
+     "name": "main.js",
+     "iconA": "js"
+    }
+   ]
+  },
+  {
+   "type": "folder",
+   "name": "Resources",
+   "iconA": "folderC",
+   "col": "pink",
+   "child": [
+    {
+     "type": "file",
+     "name": "b3.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "b4.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "b5.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "banner.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "couple1.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "couple2.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "couple3.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "couple4.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "footer.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "mycroftplatforms-1.png",
+     "iconA": "png"
+    },
+    {
+     "type": "file",
+     "name": "testimonials.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "ts1.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "ts2.jpg",
+     "iconA": "jpg"
+    }
+   ]
+  },
+  {
+   "type": "folder",
+   "name": "Structure",
+   "iconA": "folderD",
+   "col": "green",
+   "deco": "pjStruc",
+   "child": [
+    {
+     "type": "file",
+     "name": "Adder.aat",
+     "child": []
+    },
+    {
+     "type": "file",
+     "name": "Router.art",
+     "child": []
+    }
+   ]
+  },
+  {
+   "type": "folder",
+   "name": "Style",
+   "iconA": "folderB",
+   "child": [
+    {
+     "type": "file",
+     "name": "abstract-2468874_1920.jpg",
+     "iconA": "jpg"
+    },
+    {
+     "type": "file",
+     "name": "main.css",
+     "iconA": "css"
+    }
+   ]
+  },
+  {
+   "type": "folder",
+   "name": "Version",
+   "iconA": "folderD",
+   "deco": "version",
+   "child": [
+    {
+     "type": "folder",
+     "name": "Android",
+     "iconA": "folderE",
+     "deco": "androidOS",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "i-Phone",
+     "iconA": "folderE",
+     "deco": "ios",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "MacOs",
+     "iconA": "folderE",
+     "deco": "appelOS",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "Ubuntu",
+     "iconA": "folderE",
+     "deco": "ubuntuOs",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "Web",
+     "iconA": "folderE",
+     "deco": "browser",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "Windows",
+     "iconA": "folderE",
+     "deco": "windowsOS",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    },
+    {
+     "type": "folder",
+     "name": "Windows-Phone",
+     "iconA": "folderE",
+     "deco": "windowsPhone",
+     "child": [
+      {
+       "type": "folder",
+       "name": "At",
+       "iconA": "folderB",
+       "col": "#F9B31E",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Js",
+       "iconA": "folderB",
+       "child": []
+      },
+      {
+       "type": "folder",
+       "name": "Style",
+       "iconA": "folderB",
+       "child": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "designState": {
+  "headerBar_at": {
+   "height": 150
+  },
+  "page1_at": {
+   "height": 5227.062575024377,
+   "width": 800,
+   "dark": false
+  },
+  "main_at": {
+   "height": 1875,
+   "width": 1112,
+   "dark": false
+  },
+  "formulaire_at": {
+   "height": 487
+  },
+  "carouSlider_at": {
+   "height": 342
+  },
+  "imageBox_at": {
+   "height": 348
+  },
+  "customBanner_at": {
+   "height": 835.8862902500111
+  },
+  "section1_at": {
+   "height": 655
+  },
+  "section2_at": {
+   "height": 592
+  },
+  "TextBlock_at": {
+   "height": 133.0597873681063
+  },
+  "StatBx_at": {
+   "height": 300
+  },
+  "section3_at": {
+   "height": 508
+  },
+  "whyBox_at": {
+   "height": 431
+  },
+  "section4_at": {
+   "height": 546
+  },
+  "section5_at": {
+   "height": 774
+  },
+  "whatBox_at": {
+   "height": 304
+  },
+  "happyBox_at": {
+   "height": 431
+  },
+  "section6_at": {
+   "height": 431
+  },
+  "section7_at": {
+   "height": 158.83593118450023
+  },
+  "section8_at": {
+   "height": 336.27004398024576
+  },
+  "section9_at": {
+   "height": 114
+  }
+ },
+ "packingMode": "template"
+}

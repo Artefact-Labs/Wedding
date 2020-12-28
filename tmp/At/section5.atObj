@@ -1,0 +1,12 @@
+Data liste = [
+	{
+		desc: '"Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat. Donec rutrum."',
+		img: "Resources/ts1.jpg",
+		name: "JOHN & ELISA"
+	},
+	{
+		desc: '"Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat. Donec rutrum."',
+		img: "Resources/ts2.jpg",
+		name: "WATSON & MARIE"
+	}
+]

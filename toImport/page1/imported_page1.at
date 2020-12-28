@@ -1,0 +1,218 @@
+
+Item{ 
+ 
+ 
+  id: "NaN",
+  anchors.right: 0,
+  anchors.left: 0,
+  anchors.top: 0,
+  child: [
+    Image{
+     
+      id: "parallaxNaN1",
+      height: 867,
+      source: "Resources/Imported/page1/banner.jpg",
+      anchors.left: 0,
+      anchors.right: 0,
+      child: [
+        Rectangle{
+         
+          id: "rectangleparallaxNaN11",
+          color: "black",
+          anchors.right: 0,
+          anchors.left: 0,
+          anchors.top: 0,
+          anchors.bottom: 0,
+          opacity: 0.6
+        },
+        Object{
+         
+          id: "headerbarparallaxNaN13",
+          height: 100,
+          y: 0,
+"name": "imported_page1_headerBar",
+          anchors.left: 0,
+          anchors.right: 0,
+          opacity: 1
+        },
+        Grid{
+         
+          id: "gridparallaxNaN173",
+          width: 996,
+          height: "auto",
+          child: [
+            Item{
+             
+              id: "itemgridparallaxNaN1733",
+              width: 500,
+              height: 490,
+              child: [
+                Object{
+                 
+                  id: "carouslidergridparallaxNaN1711",
+                  width: 500,
+                  height: 390,
+"name": "imported_page1_carouSlider",
+                  anchors.bottom: 0
+                }
+              ]
+            },
+            Object{
+             
+              id: "formulairegridparallaxNaN1733",
+              width: 395,
+              height: 490,
+"name": "imported_page1_formulaire"
+            }
+          ],
+          anchors.horizontalCenter: 0,
+          anchors.bottom: 200,
+          anchors.left: 0
+        }
+      ]
+    },
+    Rectangle{
+     
+      id: "rectangleNaN3",
+      height: 750,
+      anchors.left: 1,
+      anchors.right: 0,
+      anchors.top: 867,
+      color: "#f6f6f6",
+      child: [
+        Text{
+         
+          id: "textrectangleNaN31",
+          width: 415,
+          height: 32.81480702715692,
+          x: 50,
+          y: 42,
+          value: "Recently Married Happy Couples",
+          fontSize: 28
+        },
+        Column{
+         
+          id: "columnrectangleNaN35",
+          height: 538.7021024285723,
+          y: 100,
+          anchors.left: 200,
+          anchors.right: 200,
+          child: [
+            Grid{
+             
+              id: "gridrectangleNaN3311111",
+              height: "auto",
+              child: [
+                Object{
+                 
+                  id: "imageboxgridrectangleNaN331",
+                  width: 255,
+                  height: 300,
+"name": "imported_page1_imageBox",
+                  modelFor: "4"
+                }
+              ],
+              anchors.left: 0,
+              anchors.right: 0
+            },
+            Grid{
+             
+              id: "gridcolumnrectangleNaN353",
+              width: 100,
+              height: "auto",
+              anchors.left: 0,
+              anchors.right: 0,
+              child: [
+                Text{
+                 
+                  id: "textgridrectangleNaN33311111",
+                  width: 445,
+                  height: "auto",
+                  value: "Vivamus mattis ex massa. Morbi sed dui imperdiet, tinci dunt libero a, sagittis enim. Donec lobortis cursuser uti justo, at eleifend eros init ultricies sed. Vivamus efficit ur urna vitae tempus aliquam. Proin aliquet dictum est molestie maximus sapien leo cursus rhoncus.",
+                  color: "gray",
+                  fontSize: 19
+                },
+                Grid{
+                 
+                  id: "gridgridrectangleNaN3353333322222",
+                  width: 50,
+                  height: 120,
+                  child: [
+                    Icon{
+                     
+                      id: "icongridgridrectangleNaN335333331",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-image",
+                      size: 50
+                    },
+                    Icon{
+                     
+                      id: "icongridgridrectangleNaN33533333122222",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-md-hand",
+                      size: 50
+                    }
+                  ]
+                },
+                Grid{
+                 
+                  id: "gridgridrectangleNaN3354444433333",
+                  width: 50,
+                  height: 120,
+                  child: [
+                    Icon{
+                     
+                      id: "icongridgridrectangleNaN335444441",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-hourglass",
+                      size: 50
+                    },
+                    Icon{
+                     
+                      id: "icongridgridrectangleNaN335444443",
+                      width: 50,
+                      height: 50,
+                      iconName: "ion-ios-paw",
+                      size: 50
+                    }
+                  ]
+                },
+                Text{
+                 
+                  id: "textgridrectangleNaN3335555544444",
+                  width: 445,
+                  height: "auto",
+                  value: "Vivamus mattis ex massa. Morbi sed dui imperdiet, tinci dunt libero a, sagittis enim. Donec lobortis cursuser uti justo, at eleifend eros init ultricies sed. Vivamus efficit ur urna vitae tempus aliquam. Proin aliquet dictum est molestie maximus sapien leo cursus rhoncus.",
+                  color: "gray",
+                  fontSize: 19
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    Rectangle{
+     
+      id: "rectangleNaN5",
+      height: 608,
+      anchors.top: 1617,
+      color: "white",
+      anchors.left: 0,
+      anchors.right: 0
+    },
+    Rectangle{
+     
+      id: "rectangleNaN54",
+      height: 534,
+      anchors.top: 2225,
+      color: "#ff4f81",
+      anchors.left: 0,
+      anchors.right: 0
+    }
+  ]
+}, 
+  

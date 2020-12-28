@@ -1,0 +1,71 @@
+
+Rectangle{
+  id: "NaN",
+  child: [
+    Column{
+      id: "columnNaN5",
+      width: 174,
+      height: 156,
+      verticalCenter: 0,
+      horizontalCenter: 0,
+      child: [
+        Item{
+          id: "itemcolumnNaN51",
+          width: 100,
+          height: 70,
+          left: 0,
+          right: 0,
+          child: [
+            Rectangle{
+              id: "rectangleNaN11111111111",
+              width: 70,
+              height: 70,
+              child: [
+                Icon{
+                  id: "iconrectangleNaN11",
+                  color: "#ff4f81",
+                  right: 0,
+                  left: 0,
+                  top: 0,
+                  bottom: 0,
+                  size: 25,
+                  iconName: "<#icon#>"
+                }
+              ],
+              horizontalCenter: 0,
+              color: "#333",
+              radius: 35
+            }
+          ]
+        },
+        Text{
+          id: "textrectangleNaN132222222222",
+          width: "auto",
+          height: "auto",
+          value: "<#number#>",
+          fontSize: 30,
+          left: 0,
+          right: 0,
+          horizontalAlign: "center"
+        },
+        Text{
+          id: "textrectangleNaN13222222222233333",
+          width: "auto",
+          height: "auto",
+          value: "<#desc#>",
+          fontSize: 18,
+          left: 0,
+          right: 0,
+          horizontalAlign: "center",
+          color: "#646464"
+        }
+      ],
+      spacing: "space-between"
+    }
+  ],
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  color: "#fff"
+},

@@ -1,0 +1,4 @@
+
+            Property required String image = "Resources/couple1.jpg"
+		Property required String  desc1 = "HAPPY SMILE"
+		Property required String  desc2 = "Matrimony"

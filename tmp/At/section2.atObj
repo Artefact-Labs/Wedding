@@ -1,0 +1,32 @@
+Data content = [
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-ios-hand"
+	},
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-md-image"
+	},
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-md-hammer"
+	},
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-md-information-circle"
+	},
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-md-hourglass"
+	},
+	{
+		titel: "WEDDING CEREMONY",
+		desc: "Proin varius pallentesque nunctincidunt ante. Init id lacus",
+		icon: "ion-ios-paw"
+	}
+]

@@ -1,0 +1,51 @@
+
+Item{
+  right: 0,
+  left: 0,
+  top: 0,
+  bottom: 0,
+  child: [
+    Rectangle{
+      id: "rectangleundefined1",
+      right: 0,
+      left: 0,
+      top: 0,
+      bottom: 0,
+      color: "#ff4f81",
+      child: [
+        Text{
+          id: "textrectangleundefined13",
+          width: 976,
+          height: "auto",
+          y: 40,
+          horizontalCenter: 0,
+          value: "Our Services",
+          fontSize: 40,
+          color: "white"
+        },
+        Flow{
+          id: "gridrectangleundefined11",
+          width: 976,
+          height: 400,
+          y: 131,
+          horizontalCenter: 0,
+          child: [
+            Object{
+              id: "statbxgridrectangleundefined111",
+              width: 210,
+              height: 246,
+              name: "StatBx",
+              bind_number: "<#item.number#>",
+              bind_desc: "<#item.desc#>",
+              bind_icon: "<#item.icon#>",
+              modelFor: "<#content#>",
+              col_real_index: 1
+            }
+          ],
+          spacing: "space-between",
+          left: 0
+        }
+      ]
+    }
+  ]
+},

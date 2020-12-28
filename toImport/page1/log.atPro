@@ -1,0 +1,66 @@
+[
+  {
+    "name": "page1",
+    "verison": "0.0.1",
+    "packingMode": "object"
+  },
+  {
+    "type": "folder",
+    "name": "Imported",
+    "iconA": "folderD",
+    "child": [
+      {
+        "type": "file",
+        "name": "banner.jpg",
+        "iconA": "jpg"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "name": "Imported",
+    "iconA": "folderD",
+    "child": [
+      {
+        "type": "file",
+        "name": "imported_page1.at",
+        "iconA": "at"
+      },
+      {
+        "type": "file",
+        "name": "imported_page1_headerBar.at",
+        "iconA": "at"
+      },
+      {
+        "type": "file",
+        "name": "imported_page1_carouSlider.at",
+        "iconA": "at"
+      },
+      {
+        "type": "file",
+        "name": "imported_page1_formulaire.at",
+        "iconA": "at"
+      },
+      {
+        "type": "file",
+        "name": "imported_page1_imageBox.at",
+        "iconA": "at"
+      },
+      {
+        "type": "folder",
+        "name": "Dependences",
+        "iconA": "folderD",
+        "child": [
+          {
+            "type": "file",
+            "name": "exemple.js",
+            "iconA": "js"
+          }
+        ]
+      }
+    ]
+  },
+  [
+    "Js/exemple.js"
+  ]
+]
